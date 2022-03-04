@@ -1,0 +1,11 @@
+D:\Documentos\Programacion\CursosYouTube\C#\SistemaDePrestamos\BancoNaucalpan\bin\Debug\BancoNaucalpan.exe.config
+D:\Documentos\Programacion\CursosYouTube\C#\SistemaDePrestamos\BancoNaucalpan\bin\Debug\BancoNaucalpan.exe
+D:\Documentos\Programacion\CursosYouTube\C#\SistemaDePrestamos\BancoNaucalpan\bin\Debug\BancoNaucalpan.pdb
+D:\Documentos\Programacion\CursosYouTube\C#\SistemaDePrestamos\BancoNaucalpan\obj\Debug\BancoNaucalpan.csprojAssemblyReference.cache
+D:\Documentos\Programacion\CursosYouTube\C#\SistemaDePrestamos\BancoNaucalpan\obj\Debug\BancoNaucalpan.Properties.Resources.resources
+D:\Documentos\Programacion\CursosYouTube\C#\SistemaDePrestamos\BancoNaucalpan\obj\Debug\BancoNaucalpan.csproj.GenerateResource.cache
+D:\Documentos\Programacion\CursosYouTube\C#\SistemaDePrestamos\BancoNaucalpan\obj\Debug\BancoNaucalpan.csproj.CoreCompileInputs.cache
+D:\Documentos\Programacion\CursosYouTube\C#\SistemaDePrestamos\BancoNaucalpan\obj\Debug\BancoNaucalpan.exe
+D:\Documentos\Programacion\CursosYouTube\C#\SistemaDePrestamos\BancoNaucalpan\obj\Debug\BancoNaucalpan.pdb
+D:\Documentos\Programacion\CursosYouTube\C#\SistemaDePrestamos\BancoNaucalpan\obj\Debug\BancoNaucalpan.Inicio.resources
+D:\Documentos\Programacion\CursosYouTube\C#\SistemaDePrestamos\BancoNaucalpan\obj\Debug\BancoNaucalpan.Prestamos.resources
